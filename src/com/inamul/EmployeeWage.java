@@ -34,6 +34,7 @@ public class EmployeeWage {
         System.out.println("Total hours worked: "+Total_Working_Hour);
     }
     public static void main(String[] args) {
+        System.out.println("Using class method.");
         EmployeeWage.employee();
     }
 }
